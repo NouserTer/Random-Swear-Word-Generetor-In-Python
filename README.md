@@ -6,6 +6,7 @@ This is my first repository And my first wroking phyton stript
     Linux Download instruction
     
     git clone https://github.com/NouserTer/Random-Text-Generetor-In-Python.py
+    
     Python Random-Text-Generetor-In-Python.py
 
         And You have 
