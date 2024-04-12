@@ -1,4 +1,4 @@
-# Random-Text-Generetor-In-Swear-Words
+# Random-Swear-Words-Generetor-In-python
 This is my first repository And my first wroking phyton stript 
 
 ⚠️Warming in this stript are Swear Words 
