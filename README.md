@@ -9,4 +9,4 @@ This is my first repository And my first wroking phyton stript
     
     Python Random-Text-Generetor-In-Python.py
 
-        And You have 
+         And You have 
